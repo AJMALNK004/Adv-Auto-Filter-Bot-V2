@@ -1,4 +1,4 @@
-# Adv Auto Filter Bot V2
+# Adv Auto Filter Bot 
 
 <p align="center">
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
@@ -47,7 +47,7 @@ OR
 
     * -> Channel - Button will show you all the connected chats with the group along with there index buttons correspnding to there order for furthur controls...
 
-    * -> Filter Types - Button will show you the 3 filter types available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them...without the need of a restart....
+    * -> Filter Types - Button will show you the filter types available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them...without the need of a restart....
 
     * -> Configure - Button will help you to change no. of pages/ buttons per page/ total result without acutally editing the repo... Also it provide option to Enable/Disable  showing Invite Link in each results
 
